@@ -11,6 +11,6 @@
 # To unpin something, delete its line. An empty list drops the whole band; a
 # path that names no page fails the build.
 featured:
-  - careers/head-of-development.markdown
-  - news/2026-08-05/technical-leadership-committee.markdown
+  - news/2026-09-27/save-the-date-amerihac-2027.markdown
+  - news/2026-10-30/state-of-haskell-2026.markdown
 ---
